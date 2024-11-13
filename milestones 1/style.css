@@ -1,0 +1,72 @@
+body {
+        font-family: 'arial', sans-serif;
+        background-color: rgb(71, 70, 70);
+        margin: 20px;
+        padding: 150px;
+        
+}
+
+h3{
+        font-size: 18px;
+        padding: 2%;
+        margin: 20px 0 20px ;
+        color: black;
+        border-radius: 10px;
+        box-shadow: 0 0 15px;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-right: 2%;
+}
+
+.resume-container{
+        display: flex;
+        background-color: white;
+        width: 80%;
+        margin: 0 auto;
+        border-radius: 10px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.left-section{
+        background-color: rgb(255, 255, 255);
+        border-radius: 10px;
+        width: 35%;
+        text-align: center;
+        padding: auto;
+        margin-left: auto;
+        
+}
+
+.profile-picture{
+        height: 150px;
+        width: 150px;
+        margin-top: 30px;
+        border-radius: 50%;
+        margin-bottom: 20px;
+
+}
+
+.certification{
+    
+    
+        
+}
+
+.objective{
+        
+}
+
+h1{
+        font-size: 18px;
+        padding: 2%;
+        margin: 20px 0 10px;
+        color: black;
+        text-align: center;
+}
+
+.right-section{
+        width: 65%;
+        padding: 20px;
+        background-color: rgb(188, 211, 211);
+
+}
